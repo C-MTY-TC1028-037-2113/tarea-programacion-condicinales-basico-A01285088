@@ -18,7 +18,7 @@ sudo -H pip3 install pytest
 - ## 02 Licencia
     ### Run command
     ```
-    pytest assignments/02Licencia
+    pytest assignments/04Maximo
     ```
 
 - ## 03 Tipo Tirángulo
